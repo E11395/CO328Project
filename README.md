@@ -1,2 +1,2 @@
 # CO328Project
-File Manager
+University Life Android Game
